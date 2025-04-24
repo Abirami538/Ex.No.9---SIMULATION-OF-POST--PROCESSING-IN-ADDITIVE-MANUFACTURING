@@ -47,7 +47,10 @@
 
 ## Output:
 
-![Screenshot 2025-04-24 155319](https://github.com/user-attachments/assets/afb47cc3-c0d4-4b18-b358-e68b5f383be1)
+![Screenshot 2025-04-24 161010](https://github.com/user-attachments/assets/f00af53b-f56d-45d5-a9ad-30eecc299447)
+![Screenshot 2025-04-24 161030](https://github.com/user-attachments/assets/e09de9de-54f5-41e0-a40a-1ee3c12d9131)
+![Screenshot 2025-04-24 161056](https://github.com/user-attachments/assets/c673e2ac-980d-424c-a751-af10f78c5997)
+
 
 ### Name: A.ABIRAMI
 ### Register Number:212224040010
