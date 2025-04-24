@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2025-04-24 155319](https://github.com/user-attachments/assets/afb47cc3-c0d4-4b18-b358-e68b5f383be1)
+
+### Name: A.ABIRAMI
+### Register Number:212224040010
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
